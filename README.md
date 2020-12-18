@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+I'm a seasoned web developer with a passion for building applications that help people connect elegantly, seamlessly, and securely with the things that matter to them. Most of my recent work has been front-end — examples coming soon, or ask me now. I bring a deep familiarity with older standards and an in-depth knowledge of usability, graceful degradation, cross-browser methodologies, and Section 508 requirements.
 
-You can use the [editor on GitHub](https://github.com/RichardDillman/richarddillman/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+But I am not unfamiliar with the back-end, primarily PHP and Cold Fusion for scripting, and all the various flavors of SQL. Triggers, views, stored procedures, I know when to use them and can explain their differences. I am familiar with the new toys and the really really old ones too.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I don't claim to be a graphic designer, but my skills in design tools and early training as an artist allow me to communicate easily with the design team, smoothing the transformation from concept to product. I don't need someone else to Photoshop for me; I have been a certified instructor.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RichardDillman/richarddillman/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I also love long walks along the beach (really!), healthy eating (Novick, Fuhrman, Esselstyn for starters), games (World of Warcraft, Diablo, Settlers of Catan), gardening, and sculpting. I also care greatly about helping kids; one of my proudest moments was in being recognized by the Indiana Department of Children's Services for my website work, which they credited with cutting in half a foster kid's average wait to be adopted.
