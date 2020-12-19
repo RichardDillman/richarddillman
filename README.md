@@ -1,6 +1,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/richarddillman?label=Follow)
 [![Linkedin: anmol](https://img.shields.io/badge/-richarddillman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richarddillman/)](https://www.linkedin.com/in/richarddillman/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://richarddillman.com/)](https://richarddillman.com/)
+![Website](https://img.shields.io/website?label=richarddillman.com&url=https%3A%2F%2Fwww.richarddillman.com)
 
 I'm a seasoned web developer with a passion for building applications that help people connect elegantly, seamlessly, and securely with the things that matter to them. Most of my recent work has been front-end — examples coming soon, or ask me now. I bring a deep familiarity with older standards and an in-depth knowledge of usability, graceful degradation, cross-browser methodologies, and Section 508 requirements.
 
